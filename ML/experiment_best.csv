@@ -1,0 +1,2 @@
+model,k,param,train,cv
+LogReg,10,-,0.872,0.793
