@@ -8,8 +8,8 @@ AI머신러닝 수업 실습 및 학습 과정을 기록하기 위한 목적의 
 - 분자 데이터 처리 및 RDKit 활용
 - Molecular Descriptor 생성
 - Feature Selection
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
+- Support Vector Machine
+- Artificial Neural Network
 - Tree-based Models
 - Ensemble Learning
 - Hyperparameter Optimization (Optuna)
