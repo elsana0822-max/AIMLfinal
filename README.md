@@ -7,8 +7,8 @@
 - 데이터 전처리 및 품질 검증
 - RDKit 기반 Molecular Descriptor 생성
 - Descriptor 전처리 및 Feature Selection
-- Support Vector Machine (SVM)
-- Artificial Neural Network (ANN)
+- Support Vector Machine
+- Artificial Neural Network
 - Tree-based Models
 - Ensemble Learning
 - Hyperparameter Optimization (Optuna)
