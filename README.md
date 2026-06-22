@@ -2,7 +2,7 @@
 
 수업에서 수행한 실습 및 기말 프로젝트를 정리한 저장소.
 
-## Learning Topics
+## Learning Topics (ML)
 
 - 데이터 전처리 및 품질 검증
 - RDKit 기반 Molecular Descriptor 생성
@@ -16,7 +16,7 @@
 - 머신러닝 모델 저장 및 불러오기
 - 모델 성능 평가 및 시각화
 
-## Final Project
+## Final Project (MLFINAL)
 
 ### Acute Toxicity Prediction
 
