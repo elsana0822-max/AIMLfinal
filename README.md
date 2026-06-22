@@ -1,6 +1,6 @@
 # AI Machine Learning Coursework
 
-수업에서 수행한 실습 및 기말 프로젝트를 기록하기 위한 목적으로 만든 저장소.
+수업에서 수행한 실습 및 기말 프로젝트를 정리한 저장소.
 
 ## Learning Topics
 
